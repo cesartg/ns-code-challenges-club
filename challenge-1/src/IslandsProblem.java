@@ -16,7 +16,7 @@
 class IslandsProblem {
     static int islands(int[][] matrix) {
         if(matrix.length <= 0) {
-            return -1;
+            return 0;
         }
         boolean[][] visited = new boolean[matrix.length][matrix[0].length];
         int numberOfIslands = 0;
