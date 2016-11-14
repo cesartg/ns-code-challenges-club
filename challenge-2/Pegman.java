@@ -1,5 +1,5 @@
 /*
- Google Code Jam 2015 Round 2 (Pegman= 
+ Google Code Jam 2015 Round 2 (Pegman)
   
  Problem
 
